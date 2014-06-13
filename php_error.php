@@ -1,7 +1,6 @@
 <?php
     /**
-     * @license
-     * 
+     * @licens
      * PHP Error
      * 
      * Copyright (c) 2012 Joseph Lenton
