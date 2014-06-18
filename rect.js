@@ -1,7 +1,6 @@
 // CSE 154
 // Creates and manipulates rectangles. 
 
-"use strict";
 
 (function() {
 	window.onload = function() {
